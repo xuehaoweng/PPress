@@ -1,10 +1,10 @@
 # PPress
 
 
-<h1 align="center"><a href="http://www.jpress.cn" target="_blank"> PPress </a></h1>
+<h1 align="center"><a href="http://www.ppresss.cn" target="_blank"> PPress </a></h1>
 
 <p align="center">
-一个使用 Java 开发的、类似 WordPress 的产品，支持多站点、多语种自动切换等。（PPress 始于2015 年）
+一个使用 Python 开发的、类似 WordPress 的产品，支持多站点、多语种自动切换等。（PPress 始于2023 年）
 </p>
 
 
